@@ -1,27 +1,29 @@
 # Rent A Roof — Public Property Website
 
-The public **rentaroof.in** site — a standalone Laravel app that turns the brokerage's live inventory into a fast, honest, conversion-focused property website for South Delhi, Gurugram and Noida.
+I built this for **Rent A Roof**, a real-estate brokerage in South Delhi — the public **rentaroof.in** site that turns their live inventory into a fast, honest, conversion-focused property website for South Delhi, Gurugram and Noida. One-man team, design through deploy, driven end to end through agentic AI workflows, and it's in production.
 
-> 🔒 **This is a public showcase.** The site's source lives in a **private** repository — happy to grant access to serious reviewers on request. The screenshots below are of the **live production site** (real listings & photography).
+Every screenshot below is of the live production site — real listings and real photography.
+
+*The source is in a private repo; happy to share it with a serious reviewer on request.*
 
 ---
 
 ## What it is
 
-A separate Laravel 13 front-end that reads the CRM's inventory read-only and presents it as a polished consumer site:
+A standalone Laravel front-end that reads the CRM's inventory read-only and presents it as a polished consumer site:
 
-- **Home** — hero search, featured/verified listings, locality entry points, and the on-site **Roofie** assistant.
+- **Home** — hero search, featured/verified listings, locality entry points, and the on-site Roofie assistant.
 - **Listings & search** — live, filterable inventory with verified badges, photo galleries, and residential-first relevance.
 - **Property detail** — full spec sheet, photo gallery, "verified by us", neighbourhood context (metro / schools / connectivity), similar listings, a locality guide, and an enquiry path.
 - **Locality guides** — every serviced colony written up by the team, with price bands and live listings.
-- **Testimonials, About, Contact, List-your-property** — the trust + supply pages.
+- **Testimonials, About, Contact, List-your-property** — the trust and supply pages.
 - **Customer area** — phone-OTP sign-in to a saved-shortlist dashboard.
 
 Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy ink / amber), no CDNs, mobile-first.
 
 ---
 
-## 📸 Screenshots · *live production*
+## Screenshots · *live production*
 
 ### Home
 ![Home](screenshots/d-home.jpg)
@@ -29,7 +31,6 @@ Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy in
 ### Listings & property detail
 **Listings** — live inventory with verified badges & galleries
 ![Listings](screenshots/d-listings.jpg)
-
 **Property detail** — spec, gallery, neighbourhood, similar listings, locality guide
 ![Property detail](screenshots/d-property.jpg)
 
@@ -42,7 +43,7 @@ Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy in
 **About** ![About](screenshots/d-about.jpg)
 **Contact** ![Contact](screenshots/d-contact.jpg)
 
-### 📱 Mobile
+### Mobile
 | Home | Listings | Property | Localities |
 |---|---|---|---|
 | ![](screenshots/m-home.jpg) | ![](screenshots/m-listings.jpg) | ![](screenshots/m-property.jpg) | ![](screenshots/m-localities.jpg) |
@@ -53,11 +54,8 @@ Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy in
 
 ---
 
-## 🧰 Tech
-`Laravel 13` · `Blade` · `Alpine.js` · `Tailwind CSS v4` (`@theme` tokens) · `MySQL` (read-only CRM inventory) · `PHP 8.4` · phone-OTP customer area
-
-## 🔑 Want to see the code?
-The complete source is in a **private repository** — reach out for access.
+## Tech
+Laravel 13 · Blade · Alpine.js · Tailwind CSS v4 (`@theme` tokens) · MySQL (read-only CRM inventory) · PHP 8.4 · phone-OTP customer area
 
 ---
-Built by **[@abBytes-sudo](https://github.com/abBytes-sudo)** · abhimasih0505@gmail.com · +91 73039 37702
+Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for Rent A Roof · abhimasih0505@gmail.com · +91 73039 37702
