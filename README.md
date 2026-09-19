@@ -34,6 +34,9 @@ Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy in
 **Property detail** — spec, gallery, neighbourhood, similar listings, locality guide
 ![Property detail](screenshots/d-property.jpg)
 
+**Compare** — up to four listings side by side
+![Compare](screenshots/d-compare.jpg)
+
 ### Locality guides
 **Localities index** ![Localities](screenshots/d-localities.jpg)
 **Locality guide** ![Locality detail](screenshots/d-locality-detail.jpg)
@@ -48,9 +51,9 @@ Design: Tailwind v4 `@theme` tokens (Rubik + IBM Plex Mono; warm cream / navy in
 |---|---|---|---|
 | ![](screenshots/m-home.jpg) | ![](screenshots/m-listings.jpg) | ![](screenshots/m-property.jpg) | ![](screenshots/m-localities.jpg) |
 
-| Locality guide | Testimonials | About | Contact |
-|---|---|---|---|
-| ![](screenshots/m-locality-detail.jpg) | ![](screenshots/m-testimonials.jpg) | ![](screenshots/m-about.jpg) | ![](screenshots/m-contact.jpg) |
+| Locality guide | Testimonials | About | Contact | Compare |
+|---|---|---|---|---|
+| ![](screenshots/m-locality-detail.jpg) | ![](screenshots/m-testimonials.jpg) | ![](screenshots/m-about.jpg) | ![](screenshots/m-contact.jpg) | ![](screenshots/m-compare.jpg) |
 
 ---
 
