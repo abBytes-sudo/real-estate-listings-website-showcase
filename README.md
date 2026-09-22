@@ -2,7 +2,7 @@
 
 I built this for **Rent A Roof**, a real-estate brokerage in South Delhi — the public **rentaroof.in** site that turns their live inventory into a fast, honest, conversion-focused property website for South Delhi, Gurugram and Noida. One-man team, design through deploy, driven end to end through agentic AI workflows, and it's in production.
 
-Every screenshot below is of the live production site — real listings and real photography.
+The screenshots are from a demo build — a placeholder brand and sample listings stand in for the live branding and real customer data, which I keep out of the public repo. The layouts, flows and photography treatment are exactly as they run in production.
 
 *The source is in a private repo; happy to share it with a serious reviewer on request.*
 
