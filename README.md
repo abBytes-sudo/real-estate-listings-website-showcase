@@ -74,6 +74,6 @@ AI-assisted delivery: I set the requirements and product decisions, directed AI 
 Laravel 13 · Blade · Alpine.js · Tailwind CSS v4 (`@theme` tokens) · MySQL (shared with the CRM) · PHP 8.4 · phone-OTP customer area
 
 ---
-Developed (AI-assisted) by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for Rent A Roof · [LinkedIn](https://www.linkedin.com/in/abhishek-m-b934a925a)
+Developed (AI-assisted) by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for Rent A Roof
 
 © 2026 [@abBytes-sudo](https://github.com/abBytes-sudo). Write-up and screenshots shared for portfolio review; not licensed for reuse.
