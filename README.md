@@ -14,9 +14,9 @@ Plain-English search, a colony price guide and **Roofie**, a scripted enquiry as
 |---|---|---|
 | Product owner · AI-assisted build | [rentaroof.in](https://rentaroof.in) | Laravel · Livewire · MySQL |
 
-| **6,843** | **16** |
+| **6,564** | **20** |
 |---|---|
-| active listings on the site · *22 Oct 2026* | organic listing enquiries · *9 Sep → 23 Oct 2026* |
+| active listings on the site · *6 Nov 2026* | organic listing enquiries · *9 Sep → 6 Nov 2026* |
 
 > **Case study PDF.** This page tells the same story as my 20-page PDF case study, *Real Estate Platform — public website*, chapter for chapter (01–11 below), with more screens. The PDF itself is not in this repo; ask for it through the contact details on my [GitHub profile](https://github.com/abBytes-sudo).
 
@@ -31,7 +31,7 @@ Plain-English search, a colony price guide and **Roofie**, a scripted enquiry as
 
 ### What makes it different
 - **Read plain English.** One box takes a whole sentence; the colony becomes a chip and the rest become filters you can remove.
-- **Filtered lists are the landing pages.** A search such as "3 BHK for rent in Vasant Vihar" is itself the landing page, with its own title and Google tags: 7,758 pages built from live stock.
+- **Filtered lists are the landing pages.** A search such as "3 BHK for rent in Vasant Vihar" is itself the landing page, with its own title and Google tags: 7,474 pages built from live stock.
 - **Show what's fair.** Rent and sale bands, with gross yield, by colony, from the team's curated pricing matrix, not averaged asking prices.
 - **Scripted by design.** Roofie is a scripted, rule-based enquiry assistant, not AI: no external API and no LLM, as the owner required. Any thread can pass to a person.
 - **Channel ≠ capture.** A visitor who googled, then used Roofie, reads "Google search" + "Roofie", so search gets credit for the lead.
@@ -76,88 +76,90 @@ Every renter brings the same three questions. A Delhi property brokerage was rel
 
 ### Found on Google within a *month*.
 
-**14 → 369** organic Google visitors a week, within a month of the relaunch.
+**26 → 103** engaged visitors from Google search a week, within two months of the relaunch.
 
-| Week (IST) | Dates | Organic Google visitors | |
+| Week (IST) | Dates | Engaged visitors from Google search | |
 |---|---|---:|---|
-| W37\* | 11–13 Sep | 14 | █ |
-| W38 | 14–20 Sep | 73 | ████ |
-| W39 | 21–27 Sep | 305 | █████████████████ |
-| **W40** | **28 Sep – 4 Oct** | **369** | **████████████████████** |
-| W41 | 5–11 Oct | 263 | ██████████████ |
-| W42 | 12–18 Oct | 228 | ████████████ |
-| W43\* | 19–23 Oct | 128 | ███████ |
+| W37\* | 11–13 Sep | 3 | █ |
+| W38 | 14–20 Sep | 26 | █████ |
+| W39 | 21–27 Sep | 34 | ███████ |
+| W40 | 28 Sep – 4 Oct | 41 | ████████ |
+| W41 | 5–11 Oct | 89 | █████████████████ |
+| W42 | 12–18 Oct | 77 | ███████████████ |
+| W43 | 19–25 Oct | 79 | ███████████████ |
+| **W44** | **26 Oct – 1 Nov** | **103** | **████████████████████** |
+| W45\* | 2–6 Nov | 47 | █████████ |
 
-<sub>\*Part weeks: the tracker went live on 11 Sep; W43 runs to 23 Oct. · *23 Oct 2026 · first-party tracker*</sub>
+<sub>\*Part weeks: the tracker went live on 11 Sep; W45 runs to 6 Nov. · *6 Nov 2026 · first-party tracker*</sub>
 
-| **1,309** | **5,299** |
+| **43%** | **6,467** |
 |---|---|
-| engaged visitors in the 30 days to 23 Oct, averaging **3 min 24 s** each. *23 Oct 2026* | site searches since 11 Sep. Searches naming a colony also feed the verification desk's list of where to check listings next. *23 Oct 2026* |
-| **Page 1** | **1,381** |
-| on Google for rent searches in 5 key South Delhi localities, within 30 days of the relaunch (Search Console + manual checks). *Sep–Oct 2026* | visitors arrived from Google organic search since 11 Sep (1,195 in the 30 days to 23 Oct). *23 Oct 2026* |
+| of engaged visitors in the 30 days to 6 Nov came from Google search (**375 of 880**), up from 22% in the 30 days to 23 Oct. *6 Nov 2026* | site searches since 11 Sep. Searches naming a colony also feed the verification desk's list of where to check listings next. *6 Nov 2026* |
+| **Page 1** | **499** |
+| on Google for rent searches in 5 key South Delhi localities, within 30 days of the relaunch (Search Console + manual checks). *Sep–Oct 2026* | engaged visitors from Google search since 11 Sep, averaging **5 min 35 s** each. *6 Nov 2026* |
 
-Counted by the site's own tracker, which filters known bots, burst crawlers and signed-in staff.
+Counted by the site's own tracker, which filters known bots, burst crawlers and signed-in staff; Google figures count engaged visitors only (raw Google-referred counts include automated desktop bursts).
 
-### 1.5 months after go-live: *enquiries*, not just visits.
-<sub>*9 Sep → 23 Oct 2026 · new leads only, imported history excluded*</sub>
+### About 2 months after go-live: *enquiries*, not just visits.
+<sub>*9 Sep → 6 Nov 2026 · new leads only, imported history excluded*</sub>
 
-| **27** | **16** | **78 of 87** |
+| **32** | **20** | **101 of 119** |
 |---|---|---|
-| website & Roofie leads: 17 Roofie property enquiries, 8 Roofie chats, 2 website forms. | organic property enquiries: new leads who asked about one specific listing, all through Roofie on the listing page. **8 arrived from Google search.** | website chats since 7 Sep never needed an agent (90%); 28 became or joined an enquiry. |
-| 9 Google search · 9 came direct · 8 social & tagged links · 1 Meta ad. **26 organic** · 9 from Google search · **10 of 27 (37%)** now have a qualified requirement. | 8 from Google search · 8 from other organic channels · 1 more came from a Meta ad. | Roofie only: 78 · An agent replied: 9. *23 Oct 2026* |
+| website & Roofie leads: 22 Roofie property enquiries, 8 Roofie chats, 2 website forms. | organic property enquiries: new leads who asked about one specific listing, all through Roofie on the listing page. **11 arrived from Google search.** | website chats since 7 Sep never needed an agent (85%); 35 became or joined an enquiry. |
+| 12 Google search · 9 came direct · 9 social & tagged links · 2 Meta ads. **30 organic** · 12 from Google search · **17 of 32 (53%)** now have a qualified requirement. | 11 from Google search · 9 from other organic channels · 2 more came from a Meta ad. | Roofie only: 101 · An agent replied: 18. *6 Nov 2026* |
 
-**Across every channel: 113 organic leads by source (not paid ads or portals) of 383 new leads.**
+**Across every channel: 147 organic leads by source (not paid ads or portals) of 496 new leads.**
 
-| Instagram DMs | Inbound calls | Website & Roofie | WhatsApp | Broker referral |
-|---:|---:|---:|---:|---:|
-| 45 | 25 | 27 | 15 | 1 |
+| Instagram DMs | Inbound calls | Website & Roofie | WhatsApp | Customer sign-ups | Broker referral |
+|---:|---:|---:|---:|---:|---:|
+| 55 | 33 | 32 | 24 | 2 | 1 |
 
-Only the website & Roofie slice is website-attributable; Instagram and WhatsApp leads are messages logged by staff. Strictest count: 112 not linked to any ad.
+Only the website & Roofie slice is website-attributable; Instagram and WhatsApp leads are messages logged by staff. Strictest count: 145 not linked to any ad.
 
 **Organic leads qualify more than twice as often**
 
 | | Now have a qualified requirement |
 |---|---|
-| Organic | **51%** · 58 of 113 |
-| Meta ads | **22%** · 57 of 258 |
+| Organic | **58%** · 85 of 147 |
+| Meta ads | **23%** · 78 of 334 |
 
-<sub>*23 Oct 2026 · CRM, read-only query*</sub>
+<sub>*6 Nov 2026 · CRM, read-only query*</sub>
 
 ---
 
 ## 03 · On-page SEO
 
-### 7,758 pages, *built from live stock*.
+### 7,474 pages, *built from live stock*.
 Live listings, colonies and common searches (rent, buy, BHK, builder floor) get pages built from the CRM's inventory; new stock joins the sitemap the next night.
 
-**All 7,758 URLs in the sitemap · 23 Oct 2026**
+**All 7,474 URLs in the sitemap · 6 Nov 2026**
 
 | Page type | URLs |
 |---|---:|
-| Listing pages | 6,840 |
-| Locality × type landing pages (buy 328 · rent 200 · commercial 80) | 608 |
-| Locality & type hubs | 164 |
-| Locality guides | 78 |
+| Listing pages | 6,561 |
+| Locality × type landing pages (buy 327 · rent 192 · commercial 80) | 599 |
+| Locality & type hubs | 163 |
+| Locality guides | 77 |
 | "Real-estate agency in &lt;colony&gt;" | 41 |
-| Journal & site pages | 27 |
-| **Total** | **7,758** |
+| Journal & site pages | 33 |
+| **Total** | **7,474** |
 
 Built the way Delhi searches: builder floors, kothis, a 3 BHK page with every colony page, a South Delhi page spanning three districts (owner decisions, Sep–Oct 2026).
 
-**Where Google visitors landed** · 1,381 Google organic visitors since 11 Sep
+**Where engaged Google visitors landed** · 499 engaged visitors from Google search since 11 Sep
 
 | Landing page | Visitors | |
 |---|---:|---|
-| Listing pages | 599 | ████████████████████ |
-| Home | 250 | ████████ |
-| Rent pages | 142 | █████ |
-| Buy pages | 102 | ███ |
-| Journal | 87 | ███ |
-| Commercial | 62 | ██ |
-| Site search | 58 | ██ |
-| Locality guides | 48 | ██ |
+| Home | 146 | ████████████████████ |
+| Rent pages | 89 | ████████████ |
+| Listing pages | 82 | ███████████ |
+| Buy pages | 78 | ███████████ |
+| Journal | 37 | █████ |
+| Commercial | 32 | ████ |
+| Locality guides | 22 | ███ |
+| Site search | 9 | █ |
 
-<sub>*23 Oct 2026 · first-party tracker*</sub>
+<sub>*6 Nov 2026 · first-party tracker*</sub>
 
 #### What makes it different
 1. **Filtered lists are the landing pages.** A search such as "3 BHK for rent in Vasant Vihar" is itself the landing page, with its own title and Google tags, so there is no second set of pages to maintain (SEO build plan, 24 Sep 2026).
@@ -169,7 +171,7 @@ Locality × type, agency and locality-guide pages all read the same live invento
 
 ![Locality × type landing page for 3 BHK rentals in Chittaranjan Park on desktop: "Showing 1–1 of 1 property", then more homes in and around the colony and similar sizes](screenshots/seo-colony.jpg)
 
-*`/rent/chittaranjan-park/3-bhk` · A thin 3 BHK page says so, then shows real nearby stock. Every colony with 5+ live homes gets one, among 608 landings, each with its own title and canonical. Demo stock.*
+*`/rent/chittaranjan-park/3-bhk` · A thin 3 BHK page says so, then shows real nearby stock. Every colony with 5+ live homes gets one, among 599 landings, each with its own title and canonical. Demo stock.*
 
 <p align="center">
   <img src="screenshots/seo-colony-phone.jpg" alt="The same Chittaranjan Park 3 BHK landing page on a phone: the colony chip, filters, the 'only a few' note and similar sizes" width="280"><br>
@@ -182,7 +184,7 @@ Locality × type, agency and locality-guide pages all read the same live invento
 
 ![Locality guide header for Vasant Vihar on desktop: live listings count, location and tabs for map, guide, around, prices and live listings](screenshots/locality-tile.jpg)
 
-*`/localities/vasant-vihar` · Locality guides: 78 guides the team writes in the CRM (notes, nearby places and photos). Map, prices and live listings are added automatically.*
+*`/localities/vasant-vihar` · Locality guides: 77 guides the team writes in the CRM (notes, nearby places and photos). Map, prices and live listings are added automatically.*
 
 #### What makes it different
 1. **Old links still land.** Pre-relaunch URLs 301 to the matching colony and BHK page (`LegacySlug`).
@@ -211,7 +213,7 @@ One box takes a whole sentence. The colony becomes a chip, the rest become filte
   <em>Phone: the same search in one bar, filters folded into a single control.</em>
 </p>
 
-**5,299** site searches since 11 Sep · *23 Oct 2026*
+**6,467** site searches since 11 Sep · *6 Nov 2026*
 
 ### Never a *dead end*.
 
@@ -301,7 +303,7 @@ Roofie is a scripted, rule-based enquiry assistant, not AI. One visitor, one thr
 2. **Sign-in inside the chat.** A mobile number and a one-time code, without leaving the thread.
 3. **A person at the end.** Any thread can pass to the team (steps 5–8).
 
-**87** chats since 7 Sep; 90% never needed an agent. · *23 Oct 2026*
+**119** chats since 7 Sep; 85% never needed an agent. · *6 Nov 2026*
 
 **Steps 1–4**
 
@@ -336,9 +338,9 @@ Visit, enquiry and callback requests become tasks for the team; a callback goes 
 
 ### A chat on a listing becomes a *lead*, with its source.
 
-| **16** | **83** |
+| **20** | **115** |
 |---|---|
-| organic listing enquiries, all through Roofie on the listing page; **8 from Google search**. | Roofie chats since go-live on 9 Sep: 43 started on a listing page, 26 linked to a lead. *9 Sep → 23 Oct 2026* |
+| organic listing enquiries, all through Roofie on the listing page; **11 from Google search**. | Roofie chats since go-live on 9 Sep: 51 started on a listing page, 33 linked to a lead. *9 Sep → 6 Nov 2026* |
 
 | On the listing → | In the CRM inbox → | CRM · Enquiry |
 |:---:|:---:|:---:|
@@ -359,9 +361,9 @@ Ad and social links are tagged in the CRM's own link builder. **The full lead jo
 
 ### A listing page that says what was *checked*.
 
-| **6,843** | **599** |
+| **6,564** | **82** |
 |---|---|
-| active listings published straight from CRM inventory. *22 Oct 2026* | of the 1,381 Google organic visitors since 11 Sep landed on a listing page. *23 Oct 2026* |
+| active listings published straight from CRM inventory. *6 Nov 2026* | of the 499 engaged Google visitors since 11 Sep landed on a listing page. *6 Nov 2026* |
 
 ![Property page on desktop: photo gallery, Enquire, Save and Share, the property details the team verified, and Roofie open on this listing](screenshots/prop-desk.jpg)
 
@@ -378,13 +380,13 @@ Ad and social links are tagged in the CRM's own link builder. **The full lead jo
 3. **Fewer pop-ups.** One nudge per visit on phones, after a customer said there were too many (owner, 22 Oct 2026).
 
 ### Everything a renter comes *back* for.
-Compare side by side, advisor shortlists shared as one link, and written guides for 78 colonies.
+Compare side by side, advisor shortlists shared as one link, and written guides for 77 colonies.
 
 **Around the listings**
 - Compare up to four, with a Floor row
 - Advisor shortlists shared as one link
 - "Not interested" clears a pick
-- Written guides for 78 colonies
+- Written guides for 77 colonies
 - Save to a shortlist with a phone number
 
 ![Compare page on desktop: two 3 BHK listings side by side with configuration, built-up area, floor, furnishing and locality rows, each with an Enquire button](screenshots/compare-hero2.jpg)
@@ -451,13 +453,13 @@ Compare side by side, advisor shortlists shared as one link, and written guides 
   <em>Phone: the same desk for agents away from a laptop.</em>
 </p>
 
-**8** owner submissions since the form went live on 20 Sep 2026
+**11** owner submissions since the form went live on 20 Sep 2026
 
 | Reviewed | Listed | Dropped | New |
 |---:|---:|---:|---:|
-| 7 | 4 | 3 | 1 |
+| 10 | 6 | 4 | 1 |
 
-All rentals: 6 residential, 2 commercial. A working supply channel, not a growth claim. · *23 Oct 2026*
+All rentals: 8 residential, 3 commercial. A working supply channel, not a growth claim. · *6 Nov 2026*
 
 ---
 
@@ -475,7 +477,7 @@ A blog with a featured guide, filters for guides and localities, and pieces writ
   <em>Phone: Guides and Localities filters above the featured piece.</em>
 </p>
 
-**29** published posts (14 blog, 15 news); 19 drafts or scheduled. · *23 Oct 2026*
+**37** published posts (18 blog, 19 news); 11 drafts or scheduled. · *6 Nov 2026*
 
 1. **Staff run it from the CRM:** draft, schedule or publish, with each post's category, cover and featured flag (`WebsiteBlogScreen`).
 2. **The rest of the site, without a developer:** homepage, new pages from ready-made blocks, menus, footer and FAQ, under separate permissions (`SectionCatalog`).
@@ -499,7 +501,7 @@ Who each colony suits, in the desk's own words, then up to three related reads.
 
 3. **Scheduled posts go live on time** and the web team is told once (`NotifyPublishedBlogs`).
 
-**87** of the 1,381 Google organic visitors since 11 Sep landed on the journal. · *23 Oct 2026*
+**37** of the 499 engaged visitors from Google search since 11 Sep landed on the journal. · *6 Nov 2026*
 
 ---
 
