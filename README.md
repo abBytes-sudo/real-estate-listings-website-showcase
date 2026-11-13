@@ -1,18 +1,18 @@
 # Real Estate Platform — public website
 
-**Case study 02 · Real Estate Platform · public website** · relaunched Sep 2026 · [Live site: rentaroof.in](https://rentaroof.in)
+**Case study 02 · Real Estate Platform · public website** · relaunched Sep 2026 · Live site: rentaroof.in
 
 ### A property site that answers the way people *actually* search.
 
 Plain-English search, a colony price guide and **Roofie**, a scripted enquiry assistant, for a Delhi property brokerage. Relaunched in Sep 2026 alongside a self-hosted CRM.
 
-**Status:** live since the 9 Sep 2026 relaunch. Live site: [rentaroof.in](https://rentaroof.in).
+**Status:** live since the 9 Sep 2026 relaunch. Live site: rentaroof.in.
 
 **My role:** product owner, AI-assisted build. I set the requirements and made the product decisions; AI coding tools write the code under my direction, and I test every change. The site is the public side of the [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase).
 
 | Role | Live | Stack |
 |---|---|---|
-| Product owner · AI-assisted build | [rentaroof.in](https://rentaroof.in) | Laravel · Livewire · MySQL |
+| Product owner · AI-assisted build | rentaroof.in | Laravel · Livewire · MySQL |
 
 | **6,564** | **20** |
 |---|---|
@@ -527,7 +527,7 @@ flowchart LR
 
 | | |
 |---|---|
-| **Live site** | [rentaroof.in](https://rentaroof.in) |
+| **Live site** | rentaroof.in |
 | **Full write-up** | [abBytes-sudo / real-estate-listings-website-showcase](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) (this page) |
 | **The lead journey (CRM case study)** | [abBytes-sudo / real-estate-crm-showcase](https://github.com/abBytes-sudo/real-estate-crm-showcase) |
 | **Try typing** | `3 bhk in vasant vihar under 1.5 lakh` |
@@ -577,6 +577,6 @@ Longer views from an earlier capture of the same demo build (placeholder brand "
 ## Designed & delivered (AI-assisted) by Abhishek M.
 Operations & CRM lead. I design and deliver business software, AI-assisted.
 
-**Live site:** [rentaroof.in](https://rentaroof.in) · **More work:** [github.com/abBytes-sudo](https://github.com/abBytes-sudo) · Related showcase: [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase)
+**Live site:** rentaroof.in · **More work:** [github.com/abBytes-sudo](https://github.com/abBytes-sudo) · Related showcase: [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase)
 
 © 2026 [@abBytes-sudo](https://github.com/abBytes-sudo). Write-up and screenshots shared for portfolio review; not licensed for reuse.
