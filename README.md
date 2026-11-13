@@ -1,18 +1,18 @@
 # Real Estate Platform — public website
 
-**Case study 02 · Real Estate Platform · public website** · relaunched Sep 2026 · Live site: rentaroof.in
+**Case study 02 · Real Estate Platform · public website** · relaunched Sep 2026
 
 ### A property site that answers the way people *actually* search.
 
 Plain-English search, a colony price guide and **Roofie**, a scripted enquiry assistant, for a Delhi property brokerage. Relaunched in Sep 2026 alongside a self-hosted CRM.
 
-**Status:** live since the 9 Sep 2026 relaunch. Live site: rentaroof.in.
+**Status:** live since the 9 Sep 2026 relaunch. Built for a Delhi real estate agency with its own online platform.
 
 **My role:** product owner, AI-assisted build. I set the requirements and made the product decisions; AI coding tools write the code under my direction, and I test every change. The site is the public side of the [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase).
 
 | Role | Live | Stack |
 |---|---|---|
-| Product owner · AI-assisted build | rentaroof.in | Laravel · Livewire · MySQL |
+| Product owner · AI-assisted build | Built for a Delhi real estate agency with its own online platform | Laravel · Livewire · MySQL |
 
 | **6,564** | **20** |
 |---|---|
@@ -47,7 +47,7 @@ The points the team changes themselves, as described in the chapters below:
 - **Journal:** staff draft, schedule or publish, with each post's category, cover and featured flag (10).
 - **The rest of the site:** homepage, new pages from ready-made blocks, menus, footer and FAQ, under separate permissions (10).
 
-<sub>*About the screenshots:* screens are from a white-labelled demo build: "abBytes" is a placeholder brand standing in for Rent A Roof, and the listings, people, stock photos (any faces blurred), phone numbers (masked) and emails are placeholders; figures marked "demo" are fictional. Layouts match production. The only production numbers are the dated ones in this write-up. The source is in a private repo; walkthrough on request.</sub>
+<sub>*About the screenshots:* screens are from a white-labelled demo build: "abBytes" is a placeholder brand standing in for the agency's brand, and the listings, people, stock photos (any faces blurred), phone numbers (masked) and emails are placeholders; figures marked "demo" are fictional. Layouts match production. The only production numbers are the dated ones in this write-up. The source is in a private repo; walkthrough on request.</sub>
 
 ---
 
@@ -527,7 +527,7 @@ flowchart LR
 
 | | |
 |---|---|
-| **Live site** | rentaroof.in |
+| **Client** | A Delhi real estate agency with its own online platform |
 | **Full write-up** | [abBytes-sudo / real-estate-listings-website-showcase](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) (this page) |
 | **The lead journey (CRM case study)** | [abBytes-sudo / real-estate-crm-showcase](https://github.com/abBytes-sudo/real-estate-crm-showcase) |
 | **Try typing** | `3 bhk in vasant vihar under 1.5 lakh` |
@@ -577,6 +577,6 @@ Longer views from an earlier capture of the same demo build (placeholder brand "
 ## Designed & delivered (AI-assisted) by Abhishek M.
 Operations & CRM lead. I design and deliver business software, AI-assisted.
 
-**Live site:** rentaroof.in · **More work:** [github.com/abBytes-sudo](https://github.com/abBytes-sudo) · Related showcase: [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase)
+**More work:** [github.com/abBytes-sudo](https://github.com/abBytes-sudo) · Related showcase: [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase)
 
 © 2026 [@abBytes-sudo](https://github.com/abBytes-sudo). Write-up and screenshots shared for portfolio review; not licensed for reuse.
